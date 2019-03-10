@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "124430718208",
+    "firebase_url": "https://fir-b47a5.firebaseio.com",
+    "project_id": "fir-b47a5",
+    "storage_bucket": "fir-b47a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124430718208:android:3b2ce34205532b5f",
+        "android_client_info": {
+          "package_name": "com.example.tugaskuis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "124430718208-fet0g7s864rfpon2h8k7ei9o45s5ur8l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tugaskuis",
+            "certificate_hash": "3058017d63072ff146c042eda95177b0c17df601"
+          }
+        },
+        {
+          "client_id": "124430718208-0kb27t4d4rl2u0mh3ht1ni66ft12gicm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDK-Avux5J2QIp1chzx-qoQIrhpih5jtzA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "124430718208-0kb27t4d4rl2u0mh3ht1ni66ft12gicm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
